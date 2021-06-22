@@ -13,4 +13,7 @@ Hello,
 
 I'm blackhorsesw. I just created a new ethereum token to act as a safe space for investors during volatility. I intend to make it as stable as possible through various mechanisms. I'm not quite finished yet (need to proof and verify but ABI error coming up).
 
-Also, I'm broke and am barely keeping afloat. I'm a goodman and working my ass off. My ethwreum address is below if anyone is feeling kind today :) any gifts will be met with kindness and generosity to you. I will give you free tokens. 
+Also, I'm broke and am barely keeping afloat. I'm a goodman and working my ass off. My ethereum address is below if anyone is feeling kind today :) any gifts will be met with kindness and generosity to you. I will give you tokens once everything is up, 100% for real.
+
+
+0x7e63Befe6b3Dc95fc561dC50b426c174df2fa8A6
